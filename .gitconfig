@@ -1,0 +1,12 @@
+[user]
+  user  = 'diannejarvisj-46321'
+  name  = 'Dianne Jarvis-Lumsden'
+  email = 'diannejarvisj@gmail.com'
+[github]
+  user  = 'diannejarvisj-46321'
+  email = 'diannejarvisj@gmail.com'
+[github "user"]
+  user  = 'diannejarvisj-46321'
+  email = 'diannejarvisj@gmail.com'
+[push]
+  default = simple

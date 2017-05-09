@@ -1,0 +1,24 @@
+def bark
+puts "Woof!"
+fido = Dog.new
+snoopy = Dog.new
+snoopy.bark
+cat = Dog.new
+cat.bark
+fido.sit
+bark
+fido.bark
+learn open instance-methods-lab-ruby-v-000
+exti
+exit
+class Dog
+  def initialize(breed)
+  def breed=(breed)
+    @breed = breed
+ 
+  def breed
+    @breed
+  end
+end
+lassie = Dog.new("Collie")
+lassie.breed
